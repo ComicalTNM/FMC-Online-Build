@@ -2,3 +2,4 @@
 * text=auto
 data/stage/witchsmokingroom.ssf filter=lfs diff=lfs merge=lfs -text
 data/character/baki.ssf filter=lfs diff=lfs merge=lfs -text
+data/character/gogitovgt.ssf filter=lfs diff=lfs merge=lfs -text
