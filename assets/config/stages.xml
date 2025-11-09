@@ -1,0 +1,505 @@
+<stages_config>	
+	<!-- Internal Assets -->
+	
+	<stages id="random" name="" info="" internalAsset="true"/>
+	<stages id="battlefield" name="Battlefield" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="waitingroom" name="Waiting Room" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="aetherhigh" name="Aether High" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="bombfactory" name="Bomb Factory" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="bowserscastle" name="Bowser´s Castle" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="burnedtower" name="Burned Tower" info="CreatorFMCSSB CrusadeFMCPorted byFMCDraco Kujo" internalAsset="true"/>
+	<stages id="butterbuilding" name="Butter Building" info="CreatorFMCMcleodGamingFMCPorted byFMCDraco Kujo" internalAsset="true"/>
+	<stages id="casinonightzone" name="Casino Night Zone" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="castlesiege" name="Castle Siege" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="castlewily" name="Skull Fortress" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="centralhighway" name="Central Highway" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="chaosshrine" name="Chaos Shrine" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="clocktown" name="Clock Town" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="crateria" name="Crateria" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="diehousetedd" name="Die House" info="CreatorFMCTEDD" internalAsset="true"/>
+	<stages id="distantplanet" name="Distant Planet" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="draculascastle" name="Dracula's Castle" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="dreamland" name="Dream Land" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="emeraldcave" name="Emerald Cave" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="explodatoriumtedd" name="Explodatorium" info="CreatorFMCTEDD" internalAsset="true"/>
+	<stages id="fortnitebus" name="Fortnite Bus" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="fourside" name="Fourside" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="francyshoptedd" name="Fancy Shop" info="CreatorFMCTEDD" internalAsset="true"/>
+	<stages id="galaxytours" name="Galaxy Tours" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="gamerdorien" name="Gamer" info="CreatorFMCDorien" internalAsset="true"/>
+	<stages id="gangplankgalleon" name="Gangplank Galleon" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="greengreendorien" name="Green Greens" info="CreatorFMCDorien" internalAsset="true"/>
+	<stages id="greenhillzone" name="Green Hill Zone" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="hongkong97" name="Hong Kong 97" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="huecomundo" name="Hueco Mundo" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="hylianskies" name="Hylian Skies" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="hyruletemple" name="Temple" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="jevilstagetedd" name="Jevil Boss Fight Stage" info="CreatorFMCTEDD" internalAsset="true"/>
+	<stages id="junglehijinx" name="Jungle Hijinx" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="kingdicestagetedd" name="King Dice Stage" info="CreatorFMCTEDD" internalAsset="true"/>
+	<stages id="konohavillage" name="Hidden Leaf Village" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="lunarcore" name="Lunar Core" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="mariocircuitdraco" name="Mario Circuit" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="meteovoyage" name="Meteo Campaigns" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="mushroomkingdom3" name="Mushroom Kingdom III" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="mutecitydraco" name="Mute City" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="nintendo3ds" name="Nintendo 3DS" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="peachscastle" name="Peach's Castle" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="peachscastle64" name="Peach's Castle 64" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="phase8" name="Phase 8" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="planetnamek" name="Planet Namek" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="pokemonstadium3" name="Pokemon Stadium 3" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="polus" name="Polus" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="rainbowroute" name="Mirror Chamber" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="sandocean" name="Sand Ocean" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="saturnvalley" name="Saturn Valley" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="sectorz" name="Sector Z" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="sewerscrusade" name="Sewers" info="CreatorFMCSSB CrusadeFMCPorted byFMCDraco Kujo" internalAsset="true"/>
+	<stages id="shadowmosesisland" name="Shadow Moses Island" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="silphco" name="Silph Co." info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="skysanctuary" name="Sky Sanctuary Zone" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="skywardvoyage" name="Skyward Voyage" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="skyworld" name="Skyworld" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="smashville" name="Smashville" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="towerofsalvation" name="Tower of Salvation" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="trainingroompm" name="Training Room (PM)" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="twilighttown" name="Twilight Town" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="waitingroom" name="Waiting Room" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="wariocastlepm" name="Wario's Castle (PM)" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="warioware" name="WarioWare, Inc." info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="yoshisisland" name="Yoshi's Island" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="yoshisstory" name="Yoshi's Story" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="zcitytedd" name="Z-City" info="CreatorFMCTEDD" internalAsset="true"/>
+	
+	<!-- External Assets -->
+	
+	<stages id="finaldestination" name="Final Destination" info="CreatorFMCMcleodGaming" internalAsset="false">
+		<preview url= "assets/stages/FD50.png"/>
+	</stages>
+	
+	<stages id="chunin" name="Chunin Exams" info="CreatorFMCGame Hunter" internalAsset="false">
+		<preview url= "assets/stages/chunin50.png"/>
+	</stages>
+
+	<stages id="wasteland" name="Wasteland" info="CreatorFMCLuka 45" internalAsset="false">
+		<preview url= "assets/stages/wasteland50.png"/>
+	</stages>
+	
+	<stages id="dbzwasteland" name="DBZ Wasteland" info="CreatorFMCDraco Joestar" internalAsset="false">
+		<preview url= "assets/stages/dbzwasteland50.png"/>
+	</stages>
+	
+	<stages id="drumisland" name="Drum Island" info="CreatorFMCCloudStrifeHero" internalAsset="false">
+		<preview url= "assets/stages/drumisland50.png"/>
+	</stages>
+	
+	<stages id="blizzard" name="Destroyed Blizzard" info="CreatorFMCVegitoMods" internalAsset="false">
+		<preview url= "assets/stages/blizzard50.png"/>
+	</stages>
+	
+	<stages id="planetvegeta" name="New Planet Vegeta" info="CreatorFMCLuka 45" internalAsset="false">
+		<preview url= "assets/stages/planetvegeta50.png"/>
+	</stages>
+	
+	<stages id="omeganamek" name="Omega Planet Namek" info="CreatorFMCChickenZ" internalAsset="false">
+		<preview url= "assets/stages/omeganamek50.png"/>
+	</stages>
+	
+	<stages id="hyperbolic" name="Hyperbolic Time Chamber (Crusade)" info="CreatorFMCDraco Joestar" internalAsset="false">
+		<preview url= "assets/stages/hyperbolic50.png"/>
+	</stages>
+	
+	<stages id="brawlhalla" name="Brawlhalla Stage" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/brawlhalla50.png"/>
+	</stages>
+	
+	<stages id="thousandsunny" name="Thousand Sunny" info="CreatorFMCCloudStrifeHero" internalAsset="false">
+		<preview url= "assets/stages/thousandsunny50.png"/>
+	</stages>
+	
+	<stages id="waterfall" name="Waterfall" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/waterfall50.png"/>
+	</stages>
+	
+	<stages id="supremekaiplanet" name="Supreme Kai Planet" info="CreatorFMCChickenZ" internalAsset="false">
+		<preview url= "assets/stages/supremekaiplanet50.png"/>
+	</stages>
+	
+	<stages id="westcity" name="West City" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/westcity50.png"/>
+	</stages>
+	
+	<stages id="namekanimated" name="Planet Namek (Animated)" info="CreatorFMCEden SSF2" internalAsset="false">
+		<preview url= "assets/stages/namekanimated50.png"/>
+	</stages>
+	
+	<stages id="top" name="Tournament of Power" info="CreatorFMCVegitoMods" internalAsset="false">
+		<preview url= "assets/stages/top50.png"/>
+	</stages>
+	
+	<stages id="finalvalley" name="Final Valley (Beta)" info="CreatorFMChakuno kishinami" internalAsset="false">
+		<preview url= "assets/stages/finalvalley50.png"/>
+	</stages>
+	
+	<stages id="9bfinalvalley" name="Final Valley" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/9bfinalvalley50.png"/>
+	</stages>
+	
+	<stages id="cyberfield" name="Cyber Field" info="CreatorFMCSkittlesNx" internalAsset="false">
+		<preview url= "assets/stages/cyberfield50.png"/>
+	</stages>
+	
+	<stages id="lagtrain" name="Lagtrain" info="CreatorFMCSkittlesNx" internalAsset="false">
+		<preview url= "assets/stages/lagtrain50.png"/>
+	</stages>
+	
+	<stages id="neobasement" name="Spamton's Stage" info="CreatorFMCSkittlesNx" internalAsset="false">
+		<preview url= "assets/stages/neobasement50.png"/>
+	</stages>
+	
+	<stages id="darkfountain" name="Dark Fountain" info="CreatorFMCChickenZ" internalAsset="false">
+		<preview url= "assets/stages/darkfountain50.png"/>
+	</stages>
+	
+	<stages id="dokipipo" name="Doki Pipo Emotion" info="CreatorFMCDraco Joestar" internalAsset="false">
+		<preview url= "assets/stages/dokipipo50.png"/>
+	</stages>
+	
+	<stages id="hentai" name="Hentai Stage" info="CreatorFMCDraco Joestar" internalAsset="false">
+		<preview url= "assets/stages/hentai50.png"/>
+	</stages>
+	
+	<stages id="heavensarena" name="Heaven's Arena" info="CreatorFMCCloudStrifeHero" internalAsset="false">
+		<preview url= "assets/stages/heavensarena50.png"/>
+	</stages>
+	
+	<stages id="betathousandsunny" name="Thousand Sunny (Beta)" info="CreatorFMCCloudStrifeHero" internalAsset="false">
+		<preview url= "assets/stages/betathousandsunny50.png"/>
+	</stages>
+	
+	<stages id="marxarena" name="The True Arena - VS. Marx Soul" info="CreatorFMCMonkey D. Ale" internalAsset="false">
+		<preview url= "assets/stages/marxarena50.png"/>
+	</stages>
+	
+	<stages id="musicplant" name="Music Plant" info="CreatorFMCDraco Joestar" internalAsset="false">
+		<preview url= "assets/stages/musicplant50.png"/>
+	</stages>
+	
+	<stages id="worldrevolving" name="THE WORLD REVOLVING" info="CreatorFMCChickenZ" internalAsset="false">
+		<preview url= "assets/stages/worldrevolving50.png"/>
+	</stages>
+	
+	<stages id="rhuecomundo" name="Hueco Mundo (Revamped)" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/rhuecomundo50.png"/>
+	</stages>
+	
+	<stages id="vastolorde" name="Vasto Lorde" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/vastolorde50.png"/>
+	</stages>
+	
+	<stages id="ichigovgrimmjow" name="Ichigo vs Grimmjow" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/ichigovgrimmjow50.png"/>
+	</stages>
+	
+	<stages id="dailybugle" name="Daily Bugle" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/dailybugle50.png"/>
+	</stages>
+	
+	<stages id="seaoffragments" name="Sea of Fragments" info="CreatorFMCMetalový Šutrák" internalAsset="false">
+		<preview url= "assets/stages/seaoffragments50.png"/>
+	</stages>
+	
+	<stages id="outerspace" name="Outer Space" info="CreatorFMCEden SSF2" internalAsset="false">
+		<preview url= "assets/stages/outerspace50.png"/>
+	</stages>
+	
+	<stages id="hakureishrine" name="Hakurei Shrine" info="CreatorFMCEden SSF2" internalAsset="false">
+		<preview url= "assets/stages/hakureishrine50.png"/>
+	</stages>
+	
+	<stages id="space" name="Universe Wasteland" info="CreatorFMCVegitoMods" internalAsset="false">
+		<preview url= "assets/stages/space50.png"/>
+	</stages>
+	
+	<stages id="temennigru" name="Temen Ni Gru" info="CreatorFMCNuru" internalAsset="false">
+		<preview url= "assets/stages/temennigru50.png"/>
+	</stages>
+	
+	<stages id="innerworld" name="Inner World" info="CreatorFMCGame Hunter" internalAsset="false">
+		<preview url= "assets/stages/innerworld50.png"/>
+	</stages>
+	
+	<stages id="innerworldrain" name="Inner World (Rain)" info="CreatorFMCGame Hunter" internalAsset="false">
+		<preview url= "assets/stages/innerworldrain50.png"/>
+	</stages>
+	
+	<stages id="miragesaloon" name="Mirage Saloon Zone" info="CreatorFMCMinh Pham" internalAsset="false">
+		<preview url= "assets/stages/miragesaloon50.png"/>
+	</stages>
+	
+	<stages id="studiopolis" name="Studiopolis Zone" info="CreatorFMCMinh Pham" internalAsset="false">
+		<preview url= "assets/stages/studiopolis50.png"/>
+	</stages>
+	
+	<stages id="pressgarden" name="Press Garden Zone" info="CreatorFMCMinh Pham" internalAsset="false">
+		<preview url= "assets/stages/pressgarden50.png"/>
+	</stages>
+	
+	<stages id="ruinedmitakihara" name="Ruined Mitakihara" info="CreatorFMCZaTimou" internalAsset="false">
+		<preview url= "assets/stages/ruinedmitakihara50.png"/>
+	</stages>
+	
+	<stages id="charlottelabyrinth" name="Charlotte's Labyrinth" info="CreatorFMCJx Lee" internalAsset="false">
+		<preview url= "assets/stages/charlottelabyrinth50.png"/>
+	</stages>
+	
+	<stages id="elsamarialabyrinth" name="Elsa Maria's Labyrinth" info="CreatorFMCJx Lee" internalAsset="false">
+		<preview url= "assets/stages/elsamarialabyrinth50.png"/>
+	</stages>
+	
+	<stages id="falsemitakihara" name="False Mitakihara" info="CreatorFMCJx Lee" internalAsset="false">
+		<preview url= "assets/stages/falsemitakihara50.png"/>
+	</stages>
+	
+	<stages id="emeraldcoast" name="Emerald Coast" info="CreatorFMCGreenGalaxio" internalAsset="false">
+		<preview url= "assets/stages/emeraldcoast50.png"/>
+	</stages>
+	
+	<stages id="reelascastle" name="Reela's Castle" info="CreatorFMCGreenGalaxio" internalAsset="false">
+		<preview url= "assets/stages/reelascastle50.png"/>
+	</stages>
+	
+	<stages id="huecomundorevamp" name="Hueco Mundo (Revamped)" info="CreatorFMCGameHunter" internalAsset="false">
+		<preview url= "assets/stages/huecomundorevamp50.png"/>
+	</stages>
+	
+	<stages id="oktavialabyrinth" name="Oktavia's Labyrinth" info="CreatorFMCJx Lee" internalAsset="false">
+		<preview url= "assets/stages/oktavialabyrinth50.png"/>
+	</stages>
+	
+	<stages id="homulillylabyrinth" name="Homulilly's Labyrinth" info="CreatorFMCJx Lee" internalAsset="false">
+		<preview url= "assets/stages/homulillylabyrinth50.png"/>
+	</stages>
+	
+	<stages id="hiddenpalace" name="Hidden Palace Zone" info="CreatorFMCGreenGalaxio" internalAsset="false">
+		<preview url= "assets/stages/hiddenpalace50.png"/>
+	</stages>
+	
+	<stages id="chemicalplant" name="Chemical Plant Zone" info="CreatorFMCGreenGalaxio" internalAsset="false">
+		<preview url= "assets/stages/chemicalplant50.png"/>
+	</stages>
+	
+	<stages id="fuyukibridge" name="Fuyuki Bridge" info="CreatorFMCGZeref" internalAsset="false">
+		<preview url= "assets/stages/fuyukibridge50.png"/>
+	</stages>
+	
+	<stages id="beerusplanet" name="Beerus' Planet" info="CreatorFMCMetalovy Sutrak" internalAsset="false">
+		<preview url= "assets/stages/beerusplanet50.png"/>
+	</stages>
+	
+	<stages id="treasuretown" name="Treasure Town" info="CreatorFMCCloudStrifeHero" internalAsset="false">
+		<preview url= "assets/stages/treasuretown50.png"/>
+	</stages>
+	
+	<stages id="snakeway" name="Snake Way" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/snakeway50.png"/>
+	</stages>
+	
+	<stages id="masteremeraldaltar" name="Master Emerald Altar" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/masteremeraldaltar50.png"/>
+	</stages>
+	
+	<stages id="darktournament" name="Dark Tournament" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/darktournament50.png"/>
+	</stages>
+	
+	<stages id="wandenreich" name="Wandenreich" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/wandenreich50.png"/>
+	</stages>
+	
+	<stages id="pressgardenzone" name="Press Garden Zone" info="CreatorFMCSkittlesNx" internalAsset="false">
+		<preview url= "assets/stages/pressgardenzone50.png"/>
+	</stages>
+	
+	<stages id="asteroids" name="Asteroids" info="CreatorFMCVegitoMods" internalAsset="false">
+		<preview url= "assets/stages/asteroids50.png"/>
+	</stages>
+	
+	<stages id="outerspacerpg" name="Outer Space (Sonic RPG)" info="CreatorFMCEden SSF2" internalAsset="false">
+		<preview url= "assets/stages/outerspacerpg50.png"/>
+	</stages>
+	
+	<stages id="starlighthallway" name="Starlight Hallway" info="CreatorFMCNicholasC" internalAsset="false">
+		<preview url= "assets/stages/starlighthallway50.png"/>
+	</stages>
+	
+	<stages id="nebulousmelancholia" name="Nebulous Melancholia" info="CreatorFMCNicholasC" internalAsset="false">
+		<preview url= "assets/stages/nebulousmelancholia50.png"/>
+	</stages>
+	
+	<stages id="newhuecomundo" name="Hueco Mundo" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/newhuecomundo50.png"/>
+	</stages>
+	
+	<stages id="gordeaudesert" name="Gordeau Desert" info="CreatorFMCJX Lee" internalAsset="false">
+		<preview url= "assets/stages/gordeaudesert50.png"/>
+	</stages>
+	
+	<stages id="scarletdevilmansion" name="Scarlet Devil Mansion" info="CreatorFMCJoey Joestar" internalAsset="false">
+		<preview url= "assets/stages/scarletdevilmansion50.png"/>
+	</stages>
+	
+	<stages id="greenhillzonenight" name="Green Hill Zone (Night)" info="CreatorFMCBerd" internalAsset="false">
+		<preview url= "assets/stages/greenhillzonenight50.png"/>
+	</stages>
+	
+	<stages id="karakuratown" name="Karakura Town" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/karakuratown50.png"/>
+	</stages>
+	
+	<stages id="temennigrudraco" name="Temen ni Gru" info="CreatorFMCDraco Kujo" internalAsset="false">
+		<preview url= "assets/stages/temennigrudraco50.png"/>
+	</stages>
+	
+	<stages id="theairship" name="The Airship" info="CreatorFMCDraco Kujo" internalAsset="false">
+		<preview url= "assets/stages/theairship50.png"/>
+	</stages>
+	
+	<stages id="deathlocksan" name="Death Lock San" info="CreatorFMCDraco Kujo" internalAsset="false">
+		<preview url= "assets/stages/deathlocksan50.png"/>
+	</stages>
+	
+	<stages id="senrankagura" name="Senran Kagura" info="CreatorFMCDraco Kujo" internalAsset="false">
+		<preview url= "assets/stages/senrankagura50.png"/>
+	</stages>
+	
+	<stages id="neptunestatepark" name="Neptune Park" info="CreatorFMCAsui" internalAsset="false">
+		<preview url= "assets/stages/neptunepark50.png"/>
+	</stages>
+	
+	<stages id="gerudodesert" name="Gerudo Desert" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/gerudodesert50.png"/>
+	</stages>
+	
+	<stages id="kolaumountain" name="Kolau Mountain" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/kolaumountain50.png"/>
+	</stages>
+	
+	<stages id="naturaldisastersurvival" name="Natural Disaster Survival" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/naturaldisastersurvival50.png"/>
+	</stages>
+	
+	<stages id="probendingarena" name="Pro Bending Arena" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/probendingarena50.png"/>
+	</stages>
+	
+	<stages id="pyramidcave" name="Pyramid Cave" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/pyramidcave50.png"/>
+	</stages>
+	
+	<stages id="seireitei" name="Seireitei" info="CreatorFMCEden SSF2" internalAsset="false">
+		<preview url= "assets/stages/seireitei50.png"/>
+	</stages>
+	
+	<stages id="bipolarhill" name="Bipolar Hill" info="CreatorFMCEden SSF2" internalAsset="false">
+		<preview url= "assets/stages/bipolarhill50.png"/>
+	</stages>
+	
+	<stages id="westernairtemple" name="Western Air Temple" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/westernairtemple50.png"/>
+	</stages>
+	
+	<stages id="firetemple" name="Fire Temple" info="CreatorFMCCaixaX" internalAsset="false">
+		<preview url= "assets/stages/firetemple50.png"/>
+	</stages>
+	
+	<stages id="whitecity" name="White City" info="CreatorFMCEden SSF2" internalAsset="false">
+		<preview url= "assets/stages/whitecity50.png"/>
+	</stages>
+	
+	<stages id="rainclouds" name="Rainclouds" info="CreatorFMCEden SSF2" internalAsset="false">
+		<preview url= "assets/stages/rainclouds50.png"/>
+	</stages>
+	
+	<stages id="mementos" name="Mementos" info="CreatorFMCSkittlesNx" internalAsset="false">
+		<preview url= "assets/stages/mementos50.png"/>
+	</stages>
+	
+	<stages id="mementoslastsurprise" name="Mementos (Last Surprise)" info="CreatorFMCDraco Kujo" internalAsset="false">
+		<preview url= "assets/stages/mementoslastsurprise50.png"/>
+	</stages>
+	
+	<stages id="mementosreachoutforthetruth" name="Mementos (Reach out for the Truth)" info="CreatorFMCDraco Kujo" internalAsset="false">
+		<preview url= "assets/stages/mementosreachoutforthetruth50.png"/>
+	</stages>
+	
+	<stages id="yermosnight" name="Yermos Night" info="CreatorFMCReva Rez" internalAsset="false">
+		<preview url= "assets/stages/yermosnight50.png"/>
+	</stages>
+	
+	<stages id="unknownvoid" name="Unknown Void" info="CreatorFMCVegitoMods" internalAsset="false">
+		<preview url= "assets/stages/unknownvoid50.png"/>
+	</stages>
+	
+	<stages id="dbzbattlefield" name="DBZ Battlefield" info="CreatorFMCVegitoMods" internalAsset="false">
+		<preview url= "assets/stages/dbzbattlefield50.png"/>
+	</stages>
+	
+	<stages id="destroyedfuture" name="Destroyed Future" info="CreatorFMCVegitoMods" internalAsset="false">
+		<preview url= "assets/stages/destroyedfuture50.png"/>
+	</stages>
+	
+	<stages id="arkmaxim" name="Ark Maxim" info="CreatorFMCGameHunter" internalAsset="false">
+		<preview url= "assets/stages/arkmaxim50.png"/>
+	</stages>
+	
+	<stages id="thrillerbark" name="Thriller Bark" info="CreatorFMCGameHunter" internalAsset="false">
+		<preview url= "assets/stages/thrillerbark50.png"/>
+	</stages>
+	
+	<stages id="cityofbooks" name="City of Books" info="CreatorFMCJX Lee" internalAsset="false">
+		<preview url= "assets/stages/cityofbooks50.png"/>
+	</stages>
+	
+	<stages id="nmdtowerinside" name="NMD Tower (Inside)" info="CreatorFMCDraco Kujo" internalAsset="false">
+		<preview url= "assets/stages/nmdtowerinside50.png"/>
+	</stages>
+	
+	<stages id="nmdtowerdestroyed" name="NMD Tower (Destroyed)" info="CreatorFMCDraco Kujo" internalAsset="false">
+		<preview url= "assets/stages/nmdtowerdestroyed50.png"/>
+	</stages>
+	
+	<stages id="nmdtowertop" name="NMD Tower (Top)" info="CreatorFMCDraco Kujo" internalAsset="false">
+		<preview url= "assets/stages/nmdtowertop50.png"/>
+	</stages>
+	
+	<stages id="glacier" name="Glacier" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/glacier50.png"/>
+	</stages>
+	
+	<stages id="snowfield" name="Great Snowfield of Iron" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/snowfield50.png"/>
+	</stages>
+	
+	<stages id="stardustspeedway" name="Stardust Speedway" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/stardustspeedway50.png"/>
+	</stages>
+	
+	<stages id="backrooms" name="Backrooms" info="CreatorFMCGreenGalaxio" internalAsset="false">
+		<preview url= "assets/stages/backrooms50.png"/>
+	</stages>
+	
+	<stages id="studiopolisActTwo" name="Studiopolis Act Two" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/studiopolisActTwo50.png"/>
+	</stages>
+	
+	<stages id="hopesAndDreams" name="Hopes And Dreams" info="CreatorFMCLink Maturity" internalAsset="false">
+		<preview url= "assets/stages/hopesAndDreams50.png"/>
+	</stages>
+	
+	<stages id="witchsmokingroom" name="Witch's Smoking Room" info="CreatorFMCJx Lee" internalAsset="false">
+		<preview url= "assets/stages/witchsmokingroom50.png"/>
+	</stages>
+	
+	
+</stages_config>
