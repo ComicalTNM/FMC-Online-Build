@@ -167,7 +167,9 @@
 			"stardustspeedway",
 			"backrooms",
 			"studiopolisActTwo",
-			"witchsmokingroom"
+			"witchsmokingroom",
+			"greenhillzonetgt",
+			"eggrocketzonetgt"
 		]
 	},
 	"stage_select_screen": {
@@ -342,29 +344,31 @@
 					"space",
 					"temennigru",
 					"temennigrudraco",
+					"greenhillzonetgt",
 					"greenhillzonenight",
 					"stardustspeedway",
 					"miragesaloon",
 					"studiopolis",
-					"studiopolisActTwo",
-					"pressgarden"
+					"studiopolisActTwo"
 				],
 				[
+					"pressgarden",
 					"pressgardenzone",
 					"emeraldcoast",
 					"fuyukibridge",
 					"hiddenpalace",
 					"chemicalplant",
 					"musicplant",
+					"eggrocketzonetgt",
 					"pyramidcave",
-					"reelascastle",
-					"starlighthallway",
 					"random"
 				]
 				
 			],
 			"rows_3": [
 				[
+					"reelascastle",
+					"starlighthallway",
 					"nebulousmelancholia",
 					"outerspacerpg",
 					"masteremeraldaltar",
@@ -372,11 +376,11 @@
 					"elsamarialabyrinth",
 					"oktavialabyrinth",
 					"ruinedmitakihara",
-					"falsemitakihara",
-					"homulillylabyrinth",
-					"beerusplanet"
+					"falsemitakihara"
 				],
 				[
+					"homulillylabyrinth",
+					"beerusplanet",
 					"snakeway",
 					"treasuretown",
 					"darktournament",
@@ -384,11 +388,11 @@
 					"theairship",
 					"neptunestatepark",
 					"gerudodesert",
-					"naturaldisastersurvival",
-					"westernairtemple",
-					"kolaumountain"
+					"naturaldisastersurvival"
 				],
 				[
+					"westernairtemple",
+					"kolaumountain",
 					"probendingarena",
 					"whitecity",
 					"rainclouds",
@@ -396,11 +400,11 @@
 					"mementoslastsurprise",
 					"mementosreachoutforthetruth",
 					"yermosnight",
-					"unknownvoid",
-					"nmdtowerinside",
-					"nmdtowerdestroyed"
+					"unknownvoid"
 				],
 				[
+					"nmdtowerinside",
+					"nmdtowerdestroyed",
 					"nmdtowertop",
 					"glacier",
 					"snowfield",
@@ -1116,6 +1120,14 @@
 		"witchsmokingroom": {
 			"guid": null,
 			"file": "witchsmokingroom.ssf"
+		},
+		"greenhillzonetgt": {
+			"guid": null,
+			"file": "greenhillzonetgt.ssf"
+		},
+		"eggrocketzonetgt": {
+			"guid": null,
+			"file": "eggrocketzonetgt.ssf"
 		}
 	}
 }

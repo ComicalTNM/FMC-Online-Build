@@ -501,5 +501,12 @@
 		<preview url= "assets/stages/witchsmokingroom50.png"/>
 	</stages>
 	
+	<stages id="greenhillzonetgt" name="Green Hill Zone" info="CreatorFMCJx Lee" internalAsset="false">
+		<preview url= "assets/stages/greenhillzonetgt50.png"/>
+	</stages>
+	
+	<stages id="eggrocketzonetgt" name="Egg Rocket Zone" info="CreatorFMCJx Lee" internalAsset="false">
+		<preview url= "assets/stages/eggrocketzonetgt50.png"/>
+	</stages>
 	
 </stages_config>
