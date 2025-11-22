@@ -285,7 +285,8 @@
 			"roy",
 			"blazeTrans",
 			"mechasonic",
-			"vegetaHenrik"
+			"vegetaHenrik",
+			"yusukeTrans"
 		],
 		"rowMax": 2,
 		"rows_1": [ 				
@@ -1853,6 +1854,11 @@
 	"vegetaHenrik": {
 		"file_pub": "vegetaHenrik.ssf",
 		"file": "vegetaHenrik.ssf",
+		"guid": null
+	},
+	"yusukeTrans": {
+		"file_pub": "yusukeTrans.ssf",
+		"file": "yusukeTrans.ssf",
 		"guid": null
 	}
 	}

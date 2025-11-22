@@ -821,7 +821,7 @@
 		<face url="assets/face/mighty.png" css="assets/face/mighty_css.png"/>
 	</fighter>
 	
-	<fighter id="yusuke2" alternateId="yusuke" name="Yusuke Urameshi" namecss= "" info= "By DarkTremor" txtNumber="12">
+	<fighter id="yusuke2" alternateId="yusukeTrans" name="Yusuke Urameshi" namecss= "" info= "By DarkTremor" txtNumber="12">
 		<face url="assets/face/yusuke2.png" css="null"/>
 	</fighter>
 	
@@ -883,6 +883,10 @@
 	
 	<fighter id="vegetaHenrik" alternateId="majinvegeta" name="Vegeta (DBS)" info= "By Henrik" txtNumber="12">
 		<face url="assets/face/vegetaHenrik.png" css="null"/>
+	</fighter>
+	
+	<fighter id="yusukeTrans" alternateId="yusuke" name="Yusuke (Transforming)" info= "By Dark Tremor" txtNumber="12">
+		<face url="assets/face/yusukeTrans.png" css="null"/>
 	</fighter>
 
 </fighter_config>
