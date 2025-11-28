@@ -861,7 +861,7 @@
 		<face url="assets/face/cream.png" css="assets/face/cream_css.png"/>
 	</fighter>
 	
-	<fighter id="daimagoku" alternateId="muigoku" name="Goku (Daima)" info= "By Jacker Mods\nUse Down + Side + B to transform" txtNumber="12">
+	<fighter id="daimagoku" alternateId="daimagokutrans" name="Goku (Daima)" info= "By Jacker Mods\nUse Down + Side + B to transform" txtNumber="12">
 		<face url="assets/face/daimagoku.png" css="null"/>
 	</fighter>
 	
@@ -887,6 +887,10 @@
 	
 	<fighter id="yusukeTrans" alternateId="yusuke" name="Yusuke (Transforming)" info= "By Dark Tremor" txtNumber="12">
 		<face url="assets/face/yusukeTrans.png" css="null"/>
+	</fighter>
+	
+	<fighter id="daimagokutrans" alternateId="muigoku" name="Daima Goku (Transforming)" info= "By Jacker Mods" txtNumber="12">
+		<face url="assets/face/daimagokutrans.png" css="null"/>
 	</fighter>
 
 </fighter_config>

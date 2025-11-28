@@ -286,7 +286,8 @@
 			"blazeTrans",
 			"mechasonic",
 			"vegetaHenrik",
-			"yusukeTrans"
+			"yusukeTrans",
+			"daimagokutrans"
 		],
 		"rowMax": 2,
 		"rows_1": [ 				
@@ -1859,6 +1860,11 @@
 	"yusukeTrans": {
 		"file_pub": "yusukeTrans.ssf",
 		"file": "yusukeTrans.ssf",
+		"guid": null
+	},
+	"daimagokutrans": {
+		"file_pub": "daimagokutrans.ssf",
+		"file": "daimagokutrans.ssf",
 		"guid": null
 	}
 	}
