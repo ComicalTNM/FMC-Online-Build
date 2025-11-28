@@ -287,7 +287,8 @@
 			"mechasonic",
 			"vegetaHenrik",
 			"yusukeTrans",
-			"daimagokutrans"
+			"daimagokutrans",
+			"jotaroChau"
 		],
 		"rowMax": 2,
 		"rows_1": [ 				
@@ -1865,6 +1866,11 @@
 	"daimagokutrans": {
 		"file_pub": "daimagokutrans.ssf",
 		"file": "daimagokutrans.ssf",
+		"guid": null
+	},
+	"jotaroChau": {
+		"file_pub": "jotaroChau.ssf",
+		"file": "jotaroChau.ssf",
 		"guid": null
 	}
 	}

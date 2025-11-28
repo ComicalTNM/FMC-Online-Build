@@ -169,7 +169,7 @@
 		<face url="assets/face/jonathan.png" css="assets/face/jonathan_css.png"/>
 	</fighter>
 
-	<fighter id="jotaro" alternateId="timou_jotaro" name="Jotaro Kujo" namecss= "" txtNumber="12">
+	<fighter id="jotaro" alternateId="jotaroChau" name="Jotaro Kujo" namecss= "" txtNumber="12">
 		<face url="assets/face/jotaro.png" css="assets/face/jotaro_css.png"/>
 	</fighter>
 
@@ -891,6 +891,10 @@
 	
 	<fighter id="daimagokutrans" alternateId="muigoku" name="Daima Goku (Transforming)" info= "By Jacker Mods" txtNumber="12">
 		<face url="assets/face/daimagokutrans.png" css="null"/>
+	</fighter>
+	
+	<fighter id="jotaroChau" alternateId="timou_jotaro" name="Jotaro (Chau Bac Ho)" info= "By Chau Bac Ho" txtNumber="12">
+		<face url="assets/face/jotaroChau.png" css="null"/>
 	</fighter>
 
 </fighter_config>
