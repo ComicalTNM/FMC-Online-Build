@@ -133,7 +133,7 @@
 		<face url="assets/face/deku.png" css="assets/face/deku_css.png"/>
 	</fighter>
 
-	<fighter id="dio" alternateId="timou_dio" name="DIO" namecss= "" txtNumber="12">
+	<fighter id="dio" alternateId="Dio" name="DIO" namecss= "" txtNumber="12">
 		<face url="assets/face/dio.png" css="assets/face/dio_css.png"/>
 	</fighter>
 
@@ -269,10 +269,6 @@
 		<face url="assets/face/tire.png" css="assets/face/tire_css.png"/>
 	</fighter>
 
-	<fighter id="timou_meiling" alternateId="timou_meiling2" name="Hong! Mei! Ling!" namecss= "" txtNumber="12">
-		<face url="assets/face/meiling.png" css="assets/face/meiling_css.png"/>
-	</fighter>
-
 	<fighter id="adachi" alternateId="null" name="Tohru Adachi" namecss= "" txtNumber="12">
 		<face url="assets/face/adachi.png" css="assets/face/adachi_css.png"/>
 	</fighter>
@@ -305,10 +301,6 @@
 		<face url="assets/face/crewmate.png" css="assets/face/crewmate_css.png"/>
 	</fighter>
 
-	<fighter id="timou_kagerou" alternateId="null" name="Imaizumi Kagerou" namecss= "" txtNumber="12">
-		<face url="assets/face/kagerou.png" css="assets/face/kagerou_css.png"/>
-	</fighter>
-
 	<fighter id="vgogeta" alternateId="gogetassj4" name="Gogeta (DBS)(VegitoMods)" namecss= "" txtNumber="12">
 		<face url="assets/face/vgogeta.png" css="null"/>
 	</fighter>
@@ -321,16 +313,8 @@
 		<face url="assets/face/rgoku.png" css="null"/>
 	</fighter>
 
-	<fighter id="timou_sluigi" alternateId="timou_sluigi2" name="Strong Luigi" namecss= "" txtNumber="12">
-		<face url="assets/face/sluigi.png" css="assets/face/sluigi_css.png"/>
-	</fighter>
-
 	<fighter id="gaster" alternateId="null" name="W.D Gaster" namecss= "" txtNumber="12">
 		<face url="assets/face/gaster.png" css="assets/face/gaster_css.png"/>
-	</fighter>
-
-	<fighter id="timou_reimu" alternateId="null" name="Reimu Hakurei" namecss= "" txtNumber="12">
-		<face url="assets/face/reimu.png" css="assets/face/reimu_css.png"/>
 	</fighter>
 
 	<fighter id="fleetway" alternateId="sonic" name="Fleetway Sonic" namecss= "" txtNumber="12">
@@ -343,10 +327,6 @@
 
 	<fighter id="jiren" alternateId="null" name="Jiren" namecss= "" txtNumber="12">
 		<face url="assets/face/jiren.png" css="assets/face/jiren_css.png"/>
-	</fighter>
-
-	<fighter id="timou_ronald" alternateId="null" name="Ronald McDonald" namecss= "" txtNumber="12">
-		<face url="assets/face/ronald.png" css="assets/face/ronald_css.png"/>
 	</fighter>
 
 	<fighter id="xicor" alternateId="null" name="Xicor" namecss= "" txtNumber="12">
@@ -375,10 +355,6 @@
 
 	<fighter id="ulquiorra" alternateId="ulquiorra_v2" name="Ulquiorra" namecss= "" txtNumber="12">
 		<face url="assets/face/ulquiorra.png" css="assets/face/ulquiorra_css.png"/>
-	</fighter>
-
-	<fighter id="timou_sakuya" alternateId="timou_sakuya2" name="Sakuya Izayoi" namecss= "" txtNumber="12">
-		<face url="assets/face/sakuya.png" css="assets/face/sakuya_css.png"/>
 	</fighter>
 
 	<fighter id="spamtonneov2" alternateId="spamton" name="Spamton NEO V2" namecss= "" txtNumber="12">
@@ -421,20 +397,8 @@
 		<face url="assets/face/denji.png" css="assets/face/denji_css.png"/>
 	</fighter>
 
-	<fighter id="timou_jotaro" alternateId="jotaro" name="Jotaro Kujo (Timou)" namecss= "" txtNumber="12">
-		<face url="assets/face/timou_jotaro.png" css="assets/face/timou_jotaro_css.png"/>
-	</fighter>
-
 	<fighter id="katara" alternateId="null" name="Katara" namecss= "" txtNumber="12">
 		<face url="assets/face/katara.png" css="assets/face/katara_css.png"/>
-	</fighter>
-
-	<fighter id="timou_kaname" alternateId="null" name="Kaname Madoka" namecss= "" txtNumber="12">
-		<face url="assets/face/timou_kaname.png" css="assets/face/timou_kaname_css.png"/>
-	</fighter>
-
-	<fighter id="timou_homura" alternateId="null" name="Akemi Homura" namecss= "" txtNumber="12">
-		<face url="assets/face/timou_homura.png" css="assets/face/timou_homura_css.png"/>
 	</fighter>
 
 	<fighter id="shadowremastered" alternateId="shadowtrans" name="Shadow v2" namecss= "" txtNumber="12">
@@ -449,10 +413,6 @@
 		<face url="assets/face/sonicaffs.png" css="null"/>
 	</fighter>
 
-	<fighter id="timou_tomoe" alternateId="null" name="Mami Tomoe" namecss= "" txtNumber="12">
-		<face url="assets/face/timou_tomoe.png" css="assets/face/timou_tomoe_css.png"/>
-	</fighter>
-
 	<fighter id="omegazero" alternateId="zero" name="Omega Zero" namecss= "" txtNumber="12">
 		<face url="assets/face/omegazero.png" css="null"/>
 	</fighter>
@@ -461,20 +421,8 @@
 		<face url="assets/face/joe.png" css="assets/face/joe_css.png"/>
 	</fighter>
 
-	<fighter id="timou_miki" alternateId="null" name="Sayaka Miki" namecss= "" txtNumber="12">
-		<face url="assets/face/timou_miki.png" css="assets/face/timou_miki_css.png"/>
-	</fighter>
-
 	<fighter id="gogitovgt" alternateId="null" name="Gogito" namecss= "" txtNumber="12">
 		<face url="assets/face/gogito.png" css="assets/face/gogito_css.png"/>
-	</fighter>
-
-	<fighter id="timou_dio" alternateId="Dio" name="DIO" namecss= "" txtNumber="12">
-		<face url="assets/face/timou_dio.png" css="assets/face/timou_dio_css.png"/>
-	</fighter>
-
-	<fighter id="timou_walpy" alternateId="null" name="Walpurgisnacht" namecss= "" txtNumber="12">
-		<face url="assets/face/timou_walpy.png" css="assets/face/timou_walpy_css.png"/>
 	</fighter>
 
 	<fighter id="nobara" alternateId="null" name="Nobara Kugisaki" namecss= "" txtNumber="12">
@@ -551,10 +499,6 @@
 
 	<fighter id="satoko" alternateId="null" name="Satoko" namecss= "" txtNumber="12">
 		<face url="assets/face/satoko.png" css="assets/face/satoko_css.png"/>
-	</fighter>
-
-	<fighter id="timou_kyuubei" alternateId="null" name="Kyuubei" namecss= "" txtNumber="12">
-		<face url="assets/face/kyuubei.png" css="assets/face/kyuubei_css.png"/>
 	</fighter>
 
 	<fighter id="gearfifth" alternateId="ruffy" name="Luffy (Gear 5)" namecss= "" txtNumber="12">
@@ -643,10 +587,6 @@
 
 	<fighter id="bardock" alternateId="null" name="Bardock" namecss= "" txtNumber="12">
 		<face url="assets/face/bardock.png" css="assets/face/bardock_css.png"/>
-	</fighter>
-
-	<fighter id="timou_sluigi2" alternateId="timou_sluigi" name="Strong Luigi 2.0" namecss= "" txtNumber="12">
-		<face url="assets/face/timou_sluigi2.png" css="null"/>
 	</fighter>
 
 	<fighter id="rgokutrans" alternateId="daimagoku" name="Revamped Goku(Transforming)" namecss= "" txtNumber="12">
@@ -749,10 +689,6 @@
 		<face url="assets/face/surge.png" css="assets/face/surge_css.png"/>
 	</fighter>
 
-	<fighter id="timou_meiling2" alternateId="timou_meiling" name="Hong Meiling 2.0" namecss= "" txtNumber="12">
-		<face url="assets/face/timou_meiling2.png" css="null"/>
-	</fighter>
-
 	<fighter id="rocklee" alternateId="null" name="Rock Lee" namecss= "" txtNumber="12">
 		<face url="assets/face/rocklee.png" css="assets/face/rocklee_css.png"/>
 	</fighter>
@@ -763,10 +699,6 @@
 
 	<fighter id="kakyoin" alternateId="null" name="Noriaki Kakyoin" namecss= "" txtNumber="12">
 		<face url="assets/face/kakyoin.png" css="assets/face/kakyoin_css.png"/>
-	</fighter>
-
-	<fighter id="timou_sakuya2" alternateId="timou_sakuya" name="Sakuya Izayoi 2.0" namecss= "" txtNumber="12">
-		<face url="assets/face/timou_sakuya2.png" css="null"/>
 	</fighter>
 
 	<fighter id="teengohan" alternateId="gohanbeast" name="Teen Gohan" namecss= "" txtNumber="12">
@@ -829,10 +761,6 @@
 		<face url="assets/face/tensazangetsu.png" css="null"/>
 	</fighter>
 	
-	<fighter id="timou_lanyard" alternateId="null" name="Dlanor A. Knox" namecss= "" info= "By ZaTimou" txtNumber="12">
-		<face url="assets/face/timou_lanyard.png" css="assets/face/timou_lanyard_css.png"/>
-	</fighter>
-	
 	<fighter id="seelkadoomZenith" alternateId="apex" name="Seelkadoom (Zenith)" namecss= "" txtNumber="12">
 		<face url="assets/face/seelkadoomZenith.png" css="null"/>
 	</fighter>
@@ -843,10 +771,6 @@
 	
 	<fighter id="toonLink" alternateId="link" name="Toon Link" namecss= "" txtNumber="12">
 		<face url="assets/face/toonLink.png" css="null"/>
-	</fighter>
-	
-	<fighter id="fezarin" alternateId="null" name="Featherine Augustus Aurora" namecss= "" info= "By Brandon" txtNumber="12">
-		<face url="assets/face/timou_auau.png" css="assets/face/timou_auau_css.png"/>
 	</fighter>
 	
 	<fighter id="perfectCell" alternateId="null" name="Perfect Cell" namecss= "" info= "By MRGAMER" txtNumber="12">
@@ -863,10 +787,6 @@
 	
 	<fighter id="daimagoku" alternateId="daimagokutrans" name="Goku (Daima)" info= "By Jacker Mods\nUse Down + Side + B to transform" txtNumber="12">
 		<face url="assets/face/daimagoku.png" css="null"/>
-	</fighter>
-	
-	<fighter id="thwampy_boyo" alternateId="null" name="Thwomp" namecss= "" info= "By Timou" txtNumber="12">
-		<face url="assets/face/thwampy_boyo.png" css="assets/face/thwampy_boyo_css.png"/>
 	</fighter>
 	
 	<fighter id="roy" alternateId="null" name="Roy" namecss= "" info= "By SRdrex" txtNumber="12">
@@ -893,7 +813,7 @@
 		<face url="assets/face/daimagokutrans.png" css="null"/>
 	</fighter>
 	
-	<fighter id="jotaroChau" alternateId="timou_jotaro" name="Jotaro (Chau Bac Ho)" info= "By Chau Bac Ho" txtNumber="12">
+	<fighter id="jotaroChau" alternateId="jotaro" name="Jotaro (Chau Bac Ho)" info= "By Chau Bac Ho" txtNumber="12">
 		<face url="assets/face/jotaroChau.png" css="null"/>
 	</fighter>
 

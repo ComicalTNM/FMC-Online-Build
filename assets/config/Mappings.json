@@ -145,18 +145,13 @@
 			"amy",
 			"dbsbroly",
 			"crewmate",
-			"timou_kagerou",
 			"vgogeta",
-			"timou_timou_meiling",
 			"revampsonic",
 			"rgoku",
-			"timou_sluigi",
 			"gaster",
-			"timou_reimu",
 			"fleetway",
 			"pixiejigglypuff",
 			"jiren",
-			"timou_ronald",
 			"xicor",
 			"wanoluffy",
 			"sagenaruto",
@@ -164,7 +159,6 @@
 			"illumi",
 			"ganondorf",
 			"ulquiorra",
-			"timou_sakuya",
 			"spamtonneov2",
 			"cumber",
 			"majinvegeta",
@@ -175,19 +169,12 @@
 			"dante",
 			"uryu",
 			"denji",
-			"timou_jotaro",
 			"katara",
-			"timou_homura",
-			"timou_kaname",
 			"shadowremastered",
 			"sonicaf",
-			"timou_tomoe",
 			"omegazero",
 			"joe",
-			"timou_miki",
 			"gogitovgt",
-			"timou_dio",
-			"timou_walpy",
 			"nobara",
 			"zoro",
 			"shadic",
@@ -207,7 +194,6 @@
 			"gogetassj4",
 			"beerus",
 			"satoko",
-			"timou_kyuubei",
 			"gearfifth",
 			"Dio",
 			"megumi",
@@ -228,7 +214,6 @@
 			"evilgoku",
 			"rnarutotrans",
 			"bardock",
-			"timou_sluigi2",
 			"rgokutrans",
 			"vegetatrans",
 			"tobitrans",
@@ -253,10 +238,8 @@
 			"vergilnicholas",
 			"shadowv4",
 			"surge",
-			"timou_meiling2",
 			"rocklee",
 			"speedrunnermario",
-			"timou_sakuya2",
 			"teengohan",
 			"blaze",
 			"gokumui",
@@ -272,16 +255,13 @@
 			"mighty",
 			"yusuke2",
 			"tensazangetsu",
-			"timou_lanyard",
 			"seelkadoomZenith",
 			"ristar",
 			"toonLink",
-			"fezarin",
 			"perfectCell",
 			"sceptileSRdrex",
 			"cream",
 			"daimagoku",
-			"thwampy_boyo",
 			"roy",
 			"blazeTrans",
 			"mechasonic",
@@ -300,7 +280,6 @@
 			"wario",
 			"donkeykong",
 			"bowser",
-			"thwampy_boyo",
 			"link",
 			"zelda",
 			"ganondorf",
@@ -312,10 +291,10 @@
 			"samus",
 			"zamus",
 			"captainfalcon",
-			"blackmage"
+			"blackmage",
+			"sora"
 			
 			],[
-			"sora",
 			"sonic",
 			"tails",
 			"knuckles",
@@ -334,10 +313,10 @@
 			"scourge",
 			"surge",
 			"pnazo",
-			"aeon"
+			"aeon",
+			"zeta"
 			
 			],[
-			"zeta",
 			"ness",
 			"megaman",
 			"zero",
@@ -356,10 +335,10 @@
 			"trunkz",
 			"bardock",
 			"frieza",
-			"cooler"
+			"cooler",
+			"perfectCell"
 			],
 			[
-			"perfectCell",
 			"kidbuu",
 			"broly",
 			"turles",
@@ -378,10 +357,10 @@
 			"grimmjow",
 			"ulquiorra",
 			"uryu",
-			"ruffy"
+			"ruffy",
+			"sanji"
 			
 			],[
-			"sanji",
 			"zoro",
 			"chopper",
 			"blackbeard",
@@ -400,14 +379,12 @@
 			"gon",
 			"killua",
 			"hisoka",
-			"illumi"
+			"illumi",
+			"rena"
 			]
 		],
 		"rows_2": [ 				
 			[
-				"timou_lanyard",
-				"fezarin",
-				"rena",
 				"satoko",
 				"takano",
 				"hanyuu",
@@ -415,19 +392,6 @@
 				"aigis",
 				"adachi",
 				"joker",
-				"timou_meiling",
-				"timou_kagerou",
-				"timou_reimu",
-				"timou_sakuya",
-				"timou_kaname",
-				"timou_homura",
-				"timou_tomoe",
-				"timou_miki",
-				"timou_kyuubei",
-				"timou_walpy"
-				
-			],
-			[
 				"shovelknight",
 				"plague_knight",
 				"king_knight",
@@ -436,21 +400,18 @@
 				"tire",
 				"smol",
 				"crewmate",
-				"timou_sluigi",
-				"timou_ronald",
 				"gohanblanco",
 				"gogitovgt",
 				"xicor",
 				"cumber",
-				"edward",
+				"edward"
+			],
+			[
 				"gintoki",
 				"deku",
 				"marth",
 				"roy",
-				"vergilcomical"
-				
-			],
-			[
+				"vergilcomical",
 				"dante",
 				"sailormoon",
 				"inuyasha",
@@ -465,15 +426,15 @@
 				"bomberman",
 				"percy",
 				"mr_hat",
-				"joe",
+				"joe"
+				
+			],
+			[
 				"denji",
 				"yusuke",
 				"jin",
 				"lloyd",
-				"kratos"
-				
-			],
-			[
+				"kratos",
 				"greninja",
 				"sceptile",
 				"gengar",
@@ -1088,11 +1049,6 @@
 		"file": "tire.ssf",
 		"guid": null
 	},
-	"timou_meiling": {
-		"file_pub": "timou_meiling.ssf",
-		"file": "timou_meiling.ssf",
-		"guid": null
-	},
 	"adachi": {
 		"file_pub": "adachi.ssf",
 		"file": "adachi.ssf",
@@ -1133,11 +1089,6 @@
 		"file": "crewmate.ssf",
 		"guid": null
 	},
-	"timou_kagerou": {
-		"file_pub": "timou_kagerou.ssf",
-		"file": "timou_kagerou.ssf",
-		"guid": null
-	},
 	"vgogeta": {
 		"file_pub": "vgogeta.ssf",
 		"file": "vgogeta.ssf",
@@ -1153,19 +1104,9 @@
 		"file": "rgoku.ssf",
 		"guid": null
 	},
-	"timou_sluigi": {
-		"file_pub": "timou_sluigi.ssf",
-		"file": "timou_sluigi.ssf",
-		"guid": null
-	},
 	"gaster": {
 		"file_pub": "gaster.ssf",
 		"file": "gaster.ssf",
-		"guid": null
-	},
-	"timou_reimu": {
-		"file_pub": "timou_reimu.ssf",
-		"file": "timou_reimu.ssf",
 		"guid": null
 	},
 	"fleetway": {
@@ -1181,11 +1122,6 @@
 	"jiren": {
 		"file_pub": "jiren.ssf",
 		"file": "jiren.ssf",
-		"guid": null
-	},
-	"timou_ronald": {
-		"file_pub": "timou_ronald.ssf",
-		"file": "timou_ronald.ssf",
 		"guid": null
 	},
 	"xicor": {
@@ -1222,11 +1158,6 @@
       "file_pub": "ulquiorra.ssf",
       "file": "ulquiorra.ssf",
       "guid": null
-	},
-	"timou_sakuya": {
-		"file_pub": "timou_sakuya.ssf",
-		"file": "timou_sakuya.ssf",
-		"guid": null
 	},
 	"spamtonneov2": {
 		"file_pub": "spamtonneov2.ssf",
@@ -1278,24 +1209,9 @@
 		"file": "denji.ssf",
 		"guid": null
 	},
-	"timou_jotaro": {
-		"file_pub": "timou_jotaro.ssf",
-		"file": "timou_jotaro.ssf",
-		"guid": null
-	},
 	"katara": {
 		"file_pub": "katara.ssf",
 		"file": "katara.ssf",
-		"guid": null
-	},
-	"timou_kaname": {
-		"file_pub": "Timou_Madoka_XP.swf",
-		"file": "Timou_Madoka_XP.swf",
-		"guid": null
-	},
-	"timou_homura": {
-		"file_pub": "Timou_Homura_XP.swf",
-		"file": "Timou_Homura_XP.swf",
 		"guid": null
 	},
 	"shadowremastered": {
@@ -1308,11 +1224,6 @@
 		"file": "sonicaf.ssf",
 		"guid": null
 	},
-	"timou_tomoe": {
-		"file_pub": "Timou_Mami_XP.swf",
-		"file": "Timou_Mami_XP.swf",
-		"guid": null
-	},
 	"omegazero": {
 		"file_pub": "omegazero.ssf",
 		"file": "omegazero.ssf",
@@ -1323,24 +1234,9 @@
 		"file": "joe.ssf",
 		"guid": null
 	},
-	"timou_miki": {
-		"file_pub": "Timou_Sayaka_XP.swf",
-		"file": "Timou_Sayaka_XP.swf",
-		"guid": null
-	},
 	"gogitovgt": {
 		"file_pub": "gogitovgt.ssf",
 		"file": "gogitovgt.ssf",
-		"guid": null
-	},
-	"timou_dio": {
-		"file_pub": "Timou_DIO_XP.swf",
-		"file": "Timou_DIO_XP.swf",
-		"guid": null
-	},
-	"timou_walpy": {
-		"file_pub": "Timou_Walpurgisnacht_XP.swf",
-		"file": "Timou_Walpurgisnacht_XP.swf",
 		"guid": null
 	},
 	"nobara": {
@@ -1441,11 +1337,6 @@
 	"satoko": {
 		"file_pub": "satoko.ssf",
 		"file": "satoko.ssf",
-		"guid": null
-	},
-	"timou_kyuubei": {
-		"file_pub": "Timou_Kyuubei_XP.swf",
-		"file": "Timou_Kyuubei_XP.swf",
 		"guid": null
 	},
 	"gearfifth": {
@@ -1556,11 +1447,6 @@
 	"bardock": {
 		"file_pub": "bardock.ssf",
 		"file": "bardock.ssf",
-		"guid": null
-	},
-	"timou_sluigi2": {
-		"file_pub": "timou_sluigi2.ssf",
-		"file": "timou_sluigi2.ssf",
 		"guid": null
 	},
 	"rgokutrans": {
@@ -1688,11 +1574,6 @@
 		"file": "surge.ssf",
 		"guid": null
 	},
-	"timou_meiling2": {
-		"file_pub": "timou_meiling2.ssf",
-		"file": "timou_meiling2.ssf",
-		"guid": null
-	},
 	"rocklee": {
 		"file_pub": "rocklee.ssf",
 		"file": "rocklee.ssf",
@@ -1707,11 +1588,6 @@
 		"file_pub": "kakyoin.ssf",
 		"file": "kakyoin.ssf",
 		"guid": "kakyoin-568d-44e9-9de3-d850b54b1643"
-	},
-	"timou_sakuya2": {
-		"file_pub": "timou_sakuya2.ssf",
-		"file": "timou_sakuya2.ssf",
-		"guid": null
 	},
 	"teengohan": {
 		"file_pub": "teengohan.ssf",
@@ -1788,11 +1664,6 @@
 		"file": "tensazangetsu.ssf",
 		"guid": null
 	},
-	"timou_lanyard": {
-		"file_pub": "timou_lanyard.ssf",
-		"file": "timou_lanyard.ssf",
-		"guid": null
-	},
 	"seelkadoomZenith": {
 		"file_pub": "seelkadoomZenith.ssf",
 		"file": "seelkadoomZenith.ssf",
@@ -1806,11 +1677,6 @@
 	"toonLink": {
 		"file_pub": "toonLink.ssf",
 		"file": "toonLink.ssf",
-		"guid": null
-	},
-	"fezarin": {
-		"file_pub": "Featherine Auau.swf",
-		"file": "Featherine Auau.swf",
 		"guid": null
 	},
 	"perfectCell": {
@@ -1831,11 +1697,6 @@
 	"daimagoku": {
 		"file_pub": "daimagoku.ssf",
 		"file": "daimagoku.ssf",
-		"guid": null
-	},
-	"thwampy_boyo": {
-		"file_pub": "thwampy_boyo.ssf",
-		"file": "thwampy_boyo.ssf",
 		"guid": null
 	},
 	"roy": {
