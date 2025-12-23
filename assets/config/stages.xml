@@ -509,4 +509,12 @@
 		<preview url= "assets/stages/eggrocketzonetgt50.png"/>
 	</stages>
 	
+	<stages id="crisisCity" name="Crisis City" info="CreatorFMCJesus B" internalAsset="false">
+		<preview url= "assets/stages/crisisCity50.png"/>
+	</stages>
+	
+	<stages id="mirageSaloonTrain" name="Mirage Saloon Train" info="CreatorFMCBrandonAnimates" internalAsset="false">
+		<preview url= "assets/stages/mirageSaloonTrain50.png"/>
+	</stages>
+	
 </stages_config>
