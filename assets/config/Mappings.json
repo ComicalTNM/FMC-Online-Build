@@ -268,7 +268,8 @@
 			"vegetaHenrik",
 			"yusukeTrans",
 			"daimagokutrans",
-			"jotaroChau"
+			"jotaroChau",
+			"knarutotrans"
 		],
 		"rowMax": 2,
 		"rows_1": [ 				
@@ -1732,6 +1733,11 @@
 	"jotaroChau": {
 		"file_pub": "jotaroChau.ssf",
 		"file": "jotaroChau.ssf",
+		"guid": null
+	},
+	"knarutotrans": {
+		"file_pub": "kidnarutotrans.ssf",
+		"file": "kidnarutotrans.ssf",
 		"guid": null
 	}
 	}

@@ -37,7 +37,7 @@
 	<fighter id="evil" alternateId="evilgoku" name="Evil Goku" namecss= "" txtNumber="12" info= "" internalAsset="true"/>
 	<fighter id="evilgokutwo" alternateId="goku" name="Evil Goku 2" namecss= "" txtNumber="12" info= "" internalAsset="true"/>
 	<fighter id="naruto" alternateId="rnaruto" name="Naruto" namecss= "" txtNumber="12" info= "" internalAsset="true"/>
-	<fighter id="kidnaruto" alternateId="naruto" name="Kid Naruto" namecss= "" txtNumber="12" info= "" internalAsset="true"/>
+	<fighter id="kidnaruto" alternateId="knarutotrans" name="Kid Naruto" namecss= "" txtNumber="12" info= "" internalAsset="true"/>
 	<fighter id="broly" alternateId="dbsbroly" name="Broly" namecss= "" txtNumber="12" info= "" internalAsset="true"/>
 	<fighter id="buggy" alternateId="null" name="Buggy The Clown" namecss= "" txtNumber="12" info= "" internalAsset="true"/>
 	<fighter id="chuck" alternateId="chucktrans" name="Chuck Norris" namecss= "" txtNumber="12" info= "" internalAsset="true"/>
@@ -815,6 +815,10 @@
 	
 	<fighter id="jotaroChau" alternateId="jotaro" name="Jotaro (Chau Bac Ho)" info= "By Chau Bac Ho" txtNumber="12">
 		<face url="assets/face/jotaroChau.png" css="null"/>
+	</fighter>
+	
+	<fighter id="knarutotrans" alternateId="naruto" name="Kid Naruto (Transforming)" namecss= "" info= "By GameHunter" txtNumber="12">
+		<face url="assets/face/knarutotrans.png" css="null"/>
 	</fighter>
 
 </fighter_config>
